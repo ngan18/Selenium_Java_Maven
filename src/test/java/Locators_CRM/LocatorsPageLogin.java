@@ -8,7 +8,7 @@ public class LocatorsPageLogin {
     public static String headerLogin = "//h1[normalize-space()=\"Login\"]";
     public static String inputEmail = "//input[@id='email']";
     public static String inputPassword = "//input[@id='password']";
-    public static String buttonLogin = "//button[normalize-space()='Sign in']";
+    public static String buttonLogin = "//button[normalize-space()=\"Login\"]";
 
     public static String forgetPassword = "//a[normalize-space()='Forgot password?']";
     public static String checkbox = "//input[@id=\"remember\"]";
