@@ -12,5 +12,8 @@ public class Locators_Page_CustomerSummary {
     public static String label_ActiveContacts = "//span[normalize-space()=\"Active Contacts\"]";
 
     public static String Btn_Search = "//div[@id=\"clients_filter\"]//input[@type=\"search\"]";
+
+    public static String firstRow_item = "//tbody/tr[1]/td[3]";
+
 }
 

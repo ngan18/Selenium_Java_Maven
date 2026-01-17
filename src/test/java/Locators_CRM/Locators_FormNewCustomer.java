@@ -22,6 +22,8 @@ public class Locators_FormNewCustomer {
     public static String btn_SaveAndCreateContact = "//button[normalize-space()=\"Save and create contact\"]";
     public static String btn_Save = "//div[@id=\"profile-save-section\"]//button[normalize-space()='Save']";
 
+    public static String option_Language = "//div[contains(text(),\"%s\")]";
+
 
 
 }
